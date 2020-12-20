@@ -9,3 +9,5 @@ def solution(a, b):
         num += 1
     answer = day[num%7]
     return answer
+
+    
